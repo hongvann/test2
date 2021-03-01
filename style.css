@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+}
+.menu{
+    font-variant: small-caps;
+    font-size: 25px;
+}
+.menu>a{
+    color: blue;
+    text-decoration: none;
+}
+.menu>a:visited{
+    color: green;
+}
+.menu>a:hover{
+    color: red;
+    text-decoration: underline;
+}
+body{
+    text-align: center;
+}
+em{
+    font-variant: small-caps;
+    font-size: 20px;
+    word-spacing: 1px;
+    line-height: 25px;
+}
+h2{
+    color: white;
+    text-shadow:0 0 5px red;
+}
+div{
+    color:rebeccapurple;
+    font-size: 20px;
+}
+
+
+

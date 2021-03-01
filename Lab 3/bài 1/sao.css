@@ -1,0 +1,22 @@
+b{
+    color: maroon;
+}
+em.doan1{
+    color: red;
+}
+em.doan2{
+    color: blue;
+}
+em.doan3{
+    color: green;
+}
+body{
+    text-align: center;
+}
+em{
+    font-variant: small-caps;
+    font-size: 20px;
+    word-spacing: 2px;
+    letter-spacing: 1px;
+    line-height: 25px;
+}
